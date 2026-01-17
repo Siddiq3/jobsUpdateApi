@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Engineer",
+    "company": "Acme Co",
+    "location": "Remote",
+    "type": "Full-time",
+    "description": "Build beautiful user interfaces using React.",
+    "postedAt": "2026-01-01",
+    "applyUrl": "https://example.com/apply/1"
+  },
+  {
+    "id": 2,
+    "title": "Backend Engineer",
+    "company": "DataWorks",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "description": "Work on scalable backend services and APIs.",
+    "postedAt": "2026-01-05",
+    "applyUrl": "https://example.com/apply/2"
+  },
+  {
+    "id": 3,
+    "title": "Product Designer",
+    "company": "Pixel Labs",
+    "location": "New York, NY",
+    "type": "Contract",
+    "description": "Design delightful experiences and prototypes.",
+    "postedAt": "2026-01-10",
+    "applyUrl": "https://example.com/apply/3"
+  }
+]
