@@ -1,32 +1,159 @@
 [
   {
-    "id": 1,
-    "title": "Frontend Engineer",
+    "id": 1001,
+    "title": "Frontend Engineer (React)",
+    "companyId": 1,
     "company": "Acme Co",
     "location": "Remote",
+    "salary": "8,00,000 - 12,00,000 INR",
+    "experience": "1 - 4 years",
     "type": "Full-time",
-    "description": "Build beautiful user interfaces using React.",
-    "postedAt": "2026-01-01",
-    "applyUrl": "https://example.com/apply/1"
+    "remote": true,
+    "postedAt": "2026-01-10",
+    "tags": ["React", "JavaScript", "CSS", "Frontend"],
+    "logoUrl": "",
+    "applyUrl": "https://example.com/apply/1001",
+    "description": "Build and maintain responsive user interfaces using React. Collaborate with product and design teams to ship features.",
+    "responsibilities": [
+      "Develop new user-facing features using React",
+      "Optimize components for maximum performance",
+      "Collaborate with designers to implement UI/UX"
+    ],
+    "qualifications": [
+      "1+ years professional experience with React",
+      "Good understanding of HTML/CSS and modern JavaScript (ES6+)",
+      "Experience with REST APIs"
+    ]
   },
   {
-    "id": 2,
-    "title": "Backend Engineer",
+    "id": 1002,
+    "title": "Backend Engineer (Node.js)",
+    "companyId": 2,
     "company": "DataWorks",
     "location": "San Francisco, CA",
+    "salary": "12,00,000 - 18,00,000 INR",
+    "experience": "2 - 6 years",
     "type": "Full-time",
-    "description": "Work on scalable backend services and APIs.",
-    "postedAt": "2026-01-05",
-    "applyUrl": "https://example.com/apply/2"
+    "remote": false,
+    "postedAt": "2026-01-08",
+    "tags": ["Node.js", "APIs", "Databases"],
+    "logoUrl": "",
+    "applyUrl": "https://example.com/apply/1002",
+    "description": "Design and implement scalable backend services and APIs. Work on data pipelines and integrations.",
+    "responsibilities": [
+      "Build and maintain RESTful services",
+      "Design database schemas and optimize queries",
+      "Participate in code reviews and architecture discussions"
+    ],
+    "qualifications": [
+      "2+ years building backend services",
+      "Experience with Node.js and a relational or NoSQL database",
+      "Familiarity with containerization (Docker)"
+    ]
   },
   {
-    "id": 3,
+    "id": 1003,
     "title": "Product Designer",
+    "companyId": 3,
     "company": "Pixel Labs",
     "location": "New York, NY",
+    "salary": "7,00,000 - 10,00,000 INR",
+    "experience": "1 - 5 years",
     "type": "Contract",
-    "description": "Design delightful experiences and prototypes.",
-    "postedAt": "2026-01-10",
-    "applyUrl": "https://example.com/apply/3"
+    "remote": false,
+    "postedAt": "2026-01-05",
+    "tags": ["Figma", "UX", "UI", "Prototyping"],
+    "logoUrl": "",
+    "applyUrl": "https://example.com/apply/1003",
+    "description": "Design beautiful and usable product experiences. Drive user research and prototype flows.",
+    "responsibilities": [
+      "Create wireframes, prototypes and high-fidelity designs",
+      "Conduct usability testing and iterate on feedback",
+      "Work with engineers to implement designs"
+    ],
+    "qualifications": [
+      "Portfolio demonstrating product design work",
+      "Strong visual and interaction design skills",
+      "Experience with Figma or Sketch"
+    ]
+  },
+  {
+    "id": 1004,
+    "title": "Junior Data Analyst",
+    "companyId": 2,
+    "company": "DataWorks",
+    "location": "Bengaluru, India",
+    "salary": "4,00,000 - 6,00,000 INR",
+    "experience": "0 - 2 years",
+    "type": "Full-time",
+    "remote": false,
+    "postedAt": "2026-01-12",
+    "tags": ["SQL", "Excel", "Analytics"],
+    "logoUrl": "",
+    "applyUrl": "https://example.com/apply/1004",
+    "description": "Work with data to create reports and dashboards. Support the analytics team in deriving insights.",
+    "responsibilities": [
+      "Prepare reports and dashboards",
+      "Assist in data-cleaning and ETL tasks",
+      "Collaborate with cross-functional teams to understand requirements"
+    ],
+    "qualifications": [
+      "Familiarity with SQL",
+      "Good analytical and problem-solving skills",
+      "Bachelors in a quantitative field preferred"
+    ]
+  },
+  {
+    "id": 1005,
+    "title": "DevOps Engineer",
+    "companyId": 1,
+    "company": "Acme Co",
+    "location": "Remote",
+    "salary": "10,00,000 - 15,00,000 INR",
+    "experience": "3 - 7 years",
+    "type": "Full-time",
+    "remote": true,
+    "postedAt": "2026-01-02",
+    "tags": ["AWS", "Kubernetes", "CI/CD"],
+    "logoUrl": "",
+    "applyUrl": "https://example.com/apply/1005",
+    "description": "Maintain and improve CI/CD pipelines and cloud infrastructure. Ensure reliability and observability.",
+    "responsibilities": [
+      "Build and maintain CI/CD pipelines",
+      "Automate infrastructure provisioning",
+      "Monitor systems and respond to incidents"
+    ],
+    "qualifications": [
+      "Experience with AWS or GCP",
+      "Exposure to container orchestration (Kubernetes)",
+      "Scripting skills (Bash, Python)"
+    ]
+  },
+  {
+    "id": 1006,
+    "title": "Intern - Software Engineer",
+    "companyId": 3,
+    "company": "Pixel Labs",
+    "location": "Hybrid - New York, NY",
+    "salary": "Stipend",
+    "experience": "Internship",
+    "type": "Internship",
+    "remote": false,
+    "postedAt": "2026-01-14",
+    "tags": ["Internship", "React", "Node.js"],
+    "logoUrl": "",
+    "applyUrl": "https://example.com/apply/1006",
+    "description": "3-month internship working across frontend and backend tasks, mentored by senior engineers.",
+    "responsibilities": [
+      "Contribute to product features",
+      "Write tests and documentation",
+      "Learn best practices from senior engineers"
+    ],
+    "qualifications": [
+      "Currently enrolled in a CS or related program",
+      "Basic programming experience",
+      "Willingness to learn"
+    ]
   }
 ]
+
