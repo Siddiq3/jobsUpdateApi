@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Acme Co",
+    "industry": "Software",
+    "location": "Remote",
+    "about": "A fast-moving startup building developer tools and integrations.",
+    "website": "https://acme.example.com",
+    "size": "51-200 employees",
+    "headquarters": "Austin, TX",
+    "founded": 2018,
+    "logoUrl": "https://ui-avatars.com/api/?name=Acme+Co&background=1e40af&color=fff&size=256"
+  },
+  {
+    "id": 2,
+    "name": "DataWorks",
+    "industry": "Data & Analytics",
+    "location": "San Francisco, CA",
+    "about": "Analytics platform and data engineering services for modern teams.",
+    "website": "https://dataworks.example.com",
+    "size": "201-500 employees",
+    "headquarters": "San Francisco, CA",
+    "founded": 2016,
+    "logoUrl": "https://ui-avatars.com/api/?name=DataWorks&background=0d9488&color=fff&size=256"
+  },
+  {
+    "id": 3,
+    "name": "Pixel Labs",
+    "industry": "Design & Product",
+    "location": "New York, NY",
+    "about": "Design-led product studio that ships delightful UX for mobile and web.",
+    "website": "https://pixellabs.example.com",
+    "size": "11-50 employees",
+    "headquarters": "New York, NY",
+    "founded": 2014,
+    "logoUrl": "https://ui-avatars.com/api/?name=Pixel+Labs&background=be185d&color=fff&size=256"
+  },
+  {
+    "id": 4,
+    "name": "CloudHalo",
+    "industry": "Cloud Infrastructure",
+    "location": "Bengaluru, India",
+    "about": "Managed cloud infrastructure and observability for startups.",
+    "website": "https://cloudhalo.example.com",
+    "size": "51-200 employees",
+    "headquarters": "Bengaluru, India",
+    "founded": 2019,
+    "logoUrl": "https://ui-avatars.com/api/?name=CloudHalo&background=0f172a&color=fff&size=256"
+  },
+  {
+    "id": 5,
+    "name": "FinanEdge",
+    "industry": "Fintech",
+    "location": "London, UK",
+    "about": "Fintech solutions for SMBs — payments, payouts, reconciliation tools.",
+    "website": "https://finanedge.example.com",
+    "size": "201-500 employees",
+    "headquarters": "London, UK",
+    "founded": 2015,
+    "logoUrl": "https://ui-avatars.com/api/?name=FinanEdge&background=f97316&color=fff&size=256"
+  },
+  {
+    "id": 6,
+    "name": "GreenGrid",
+    "industry": "Sustainability",
+    "location": "Berlin, Germany",
+    "about": "Energy optimization and sustainability analytics for businesses.",
+    "website": "https://greengrid.example.com",
+    "size": "51-200 employees",
+    "headquarters": "Berlin, Germany",
+    "founded": 2020,
+    "logoUrl": "https://ui-avatars.com/api/?name=GreenGrid&background=059669&color=fff&size=256"
+  }
+]
