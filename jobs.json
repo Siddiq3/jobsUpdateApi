@@ -11,7 +11,7 @@
     "remote": true,
     "postedAt": "2026-01-10",
     "tags": ["React", "JavaScript", "CSS", "Frontend"],
-    "logoUrl": "",
+  "logoUrl": "https://ui-avatars.com/api/?name=Acme+Co&background=1e40af&color=fff&size=128",
     "applyUrl": "https://example.com/apply/1001",
     "description": "Build and maintain responsive user interfaces using React. Collaborate with product and design teams to ship features.",
     "responsibilities": [
@@ -37,7 +37,7 @@
     "remote": false,
     "postedAt": "2026-01-08",
     "tags": ["Node.js", "APIs", "Databases"],
-    "logoUrl": "",
+  "logoUrl": "https://ui-avatars.com/api/?name=DataWorks&background=0d9488&color=fff&size=128",
     "applyUrl": "https://example.com/apply/1002",
     "description": "Design and implement scalable backend services and APIs. Work on data pipelines and integrations.",
     "responsibilities": [
@@ -63,7 +63,7 @@
     "remote": false,
     "postedAt": "2026-01-05",
     "tags": ["Figma", "UX", "UI", "Prototyping"],
-    "logoUrl": "",
+  "logoUrl": "https://ui-avatars.com/api/?name=Pixel+Labs&background=be185d&color=fff&size=128",
     "applyUrl": "https://example.com/apply/1003",
     "description": "Design beautiful and usable product experiences. Drive user research and prototype flows.",
     "responsibilities": [
@@ -89,7 +89,7 @@
     "remote": false,
     "postedAt": "2026-01-12",
     "tags": ["SQL", "Excel", "Analytics"],
-    "logoUrl": "",
+  "logoUrl": "https://ui-avatars.com/api/?name=DataWorks&background=0d9488&color=fff&size=128",
     "applyUrl": "https://example.com/apply/1004",
     "description": "Work with data to create reports and dashboards. Support the analytics team in deriving insights.",
     "responsibilities": [
@@ -115,7 +115,7 @@
     "remote": true,
     "postedAt": "2026-01-02",
     "tags": ["AWS", "Kubernetes", "CI/CD"],
-    "logoUrl": "",
+  "logoUrl": "https://ui-avatars.com/api/?name=Acme+Co&background=1e40af&color=fff&size=128",
     "applyUrl": "https://example.com/apply/1005",
     "description": "Maintain and improve CI/CD pipelines and cloud infrastructure. Ensure reliability and observability.",
     "responsibilities": [
@@ -141,7 +141,7 @@
     "remote": false,
     "postedAt": "2026-01-14",
     "tags": ["Internship", "React", "Node.js"],
-    "logoUrl": "",
+  "logoUrl": "https://ui-avatars.com/api/?name=Pixel+Labs&background=be185d&color=fff&size=128",
     "applyUrl": "https://example.com/apply/1006",
     "description": "3-month internship working across frontend and backend tasks, mentored by senior engineers.",
     "responsibilities": [
