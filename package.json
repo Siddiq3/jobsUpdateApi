@@ -4,6 +4,6 @@
   "type": "module",
   "dependencies": {
     "cheerio": "1.0.0-rc.12",
-    "puppeteer": "^21.3.8"
+    "puppeteer": "^24.5.0"
   }
 }
