@@ -1,7 +1,6 @@
 import fs from "fs";
 import fetch from "node-fetch";
-import cheerio from "cheerio";
-
+import * as cheerio from "cheerio";
 async function scrapeIndeed() {
   const url = "https://in.indeed.com/jobs?q=software+developer&l=India";
 
