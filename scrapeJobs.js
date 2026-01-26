@@ -61,7 +61,10 @@ async function scrapeIndeed() {
     return jobList;
   });
 
-  fs.writeFileSync("Jobdetails.json", JSON.stringify(jobs, null, 2));
+fs.writeFileSync("Jobdetails.json", JSON.stringify({
+  lastUpdated: new Date().toISOString(),
+  jobs
+}, null, 2));
   console.log(`Jobs scraped successfully! Total jobs: ${jobs.length}`);
 
   await browser.close();
